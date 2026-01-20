@@ -1,4 +1,2 @@
-cleaning/datasets/GeneratedLabelledFlows/TrafficLabelling/*.csv filter=lfs diff=lfs merge=lfs -text
-cleaning/datasets/*.mmdb filter=lfs diff=lfs merge=lfs -text
 ProjectE25/datasets/GeneratedLabelledFlows/TrafficLabelling/*.csv filter=lfs diff=lfs merge=lfs -text
 ProjectE25/datasets/*.mmdb filter=lfs diff=lfs merge=lfs -text
