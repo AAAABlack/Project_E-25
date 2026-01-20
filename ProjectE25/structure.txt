@@ -1,0 +1,24 @@
+
+# Project Structure
+
+Project-E25/
+│
+├── README.md
+├── requirements.txt
+├── structure.txt
+├── E25cyberAttacks.ipynb
+│
+├── datasets/
+    ├── cybersecurity_attacks.csv
+    ├── service_ports.csv
+    ├── GeoLite2-City.mmdb
+    └── GeneratedLabelledFlows/
+        └── TrafficLabelling/
+            ├── MondayWH.csv
+            ├── TuesdayWH.csv
+            ├── WednesdayWH.csv
+            ├── ThursdayWebAttacksWH.csv
+            ├── ThursdayInfiltrationWH.csv
+            ├── FridayWH.csv
+            ├── FridayDDosWH.csv
+            └── FridayPscanWH.csv 
