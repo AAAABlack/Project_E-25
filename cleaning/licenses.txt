@@ -1,0 +1,35 @@
+# Project Licenses and Attributions
+
+## Datasets
+- Cyber Security Attacks Dataset: https://www.kaggle.com/datasets/teamincribo/cyber-security-attacks
+  License: Dataset available on Kaggle (check dataset page for specific license)
+  
+- IDS 2017 Dataset (Traffic Labelling): https://www.unb.ca/cic/datasets/ids-2017.html
+  License: Available for academic use (verify with source)
+
+- IANA Service Port Numbers: https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.csv
+  License: Public Domain (IANA assignments are public)
+
+## Geolocation Database
+- GeoLite2 City Database: https://dev.maxmind.com/geoip/geolite2-free-geolocation-data/
+  License: CC BY-SA 4.0 (Creative Commons Attribution-ShareAlike 4.0)
+  Attribution: This product includes GeoLite2 data created by MaxMind
+
+## Python Libraries
+- pandas: BSD 3-Clause License
+- numpy: BSD License
+- scikit-learn: BSD 3-Clause License
+- geoip2: Apache License 2.0
+- plotly: MIT License
+- xgboost: Apache License 2.0
+- catboost: Apache License 2.0
+- lightgbm: MIT License
+- pycountry: MIT License
+- tqdm: Mozilla Public License 2.0
+- seaborn: BSD 3-Clause License
+- matplotlib: PSF License (Python Software Foundation)
+
+## Important Notes
+- Ensure compliance with each dataset's terms of use before publication or redistribution
+- The GeoLite2 database requires attribution as per CC BY-SA 4.0
+- All third-party libraries used maintain their respective open-source licenses
