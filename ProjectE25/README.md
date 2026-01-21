@@ -47,4 +47,4 @@ Evaluation: Precision, recall, F1-score, k-fold cross validations, and confusion
  
 # Important!
 
-If there are any issues with your GIT LFS, please consider directly downloading the datatsets from the sources at the very top of the notebook. 
+If there are any issues with your GIT LFG, please consider directly downloading the datatsets from the sources at the very top of the notebook. 
